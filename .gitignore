@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Data
+/data
+
+# Python venv / top level folders
+/.venv/
+/.vscode/
+
+# Vendored deposit
+/MouseLockBox/
+
+# Report
+/report/*
+!/report/report.pdf
